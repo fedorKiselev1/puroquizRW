@@ -1,0 +1,1 @@
+text="8. How much value does the pearl have to the scavengers?"

@@ -1,0 +1,2 @@
+audio_resume_sound(global.CurrentMusic)
+audio_stop_sound(playing)

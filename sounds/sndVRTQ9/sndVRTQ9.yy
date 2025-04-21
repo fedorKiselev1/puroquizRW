@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndVRTQ9",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":17.117641,
+  "name":"sndVRTQ9",
+  "parent":{
+    "name":"VRT",
+    "path":"folders/Sounds/LST/VRT.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndVRTQ9.mp3",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+text="4. How many food pips does hunter gain from eating a blue lizard?"

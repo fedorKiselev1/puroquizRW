@@ -1,0 +1,1 @@
+text="10. You can distract a guardian by throwing a small creature to pass by them without max karma"

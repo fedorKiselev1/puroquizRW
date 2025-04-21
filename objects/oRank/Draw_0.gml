@@ -1,0 +1,6 @@
+if Point <= 1 draw_sprite_ext(sF, 0, x, y, scale, scale, 0, c_white, 1)
+if Point >= 2 &&  Point <= 3 draw_sprite_ext(sD, 0, x, y, scale, scale, 0, c_white, 1)
+if Point >= 4 &&  Point <= 5 draw_sprite_ext(sC, 0, x, y, scale, scale, 0, c_white, 1)
+if Point >= 6 &&  Point <= 7 draw_sprite_ext(sB, 0, x, y, scale, scale, 0, c_white, 1)
+if Point >= 8 &&  Point <= 9 draw_sprite_ext(sA, 0, x, y, scale, scale, 0, c_white, 1)
+if Point >= 10 draw_sprite_ext(sEX, 0, x, y, scale, scale, 0, c_white, 1)

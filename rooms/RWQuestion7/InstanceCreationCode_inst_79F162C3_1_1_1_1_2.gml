@@ -1,0 +1,1 @@
+text = "12.5 seconds"

@@ -1,0 +1,1 @@
+text="3. How many lizards do you need to kill to gain the dragon slayer passage?"

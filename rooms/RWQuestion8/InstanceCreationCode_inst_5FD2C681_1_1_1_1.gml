@@ -1,0 +1,1 @@
+text = "999 (scavengers will always priorotise pearls)"

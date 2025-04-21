@@ -1,0 +1,6 @@
+if global.DWPoints <= 1 text = "you zuck...."
+if global.DWPoints >= 2 &&  global.DWPoints <= 3 text = "try harder"
+if global.DWPoints >= 4 &&  global.DWPoints <= 5 text = "quite average"
+if global.DWPoints >= 6 &&  global.DWPoints <= 7 text = "not bad!"
+if global.DWPoints >= 8 &&  global.DWPoints <= 9 text = "wowzies!!! epic gamer!!"
+if global.DWPoints >= 10 text = "THE ULTIMATE QUIZ GOD INCARNATE"

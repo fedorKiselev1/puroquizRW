@@ -1,0 +1,1 @@
+text = "6 but 5 if you kill a red"

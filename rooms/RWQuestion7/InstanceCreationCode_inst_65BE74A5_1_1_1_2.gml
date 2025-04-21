@@ -1,0 +1,1 @@
+text="7. How much time does a regular vulture mask deter lizards for?"

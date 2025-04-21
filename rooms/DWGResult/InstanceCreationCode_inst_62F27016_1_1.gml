@@ -1,0 +1,1 @@
+Point = global.DWPoints

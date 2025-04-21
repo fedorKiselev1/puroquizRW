@@ -1,0 +1,6 @@
+if global.Points <= 1 text = "you zuck...."
+if global.Points >= 2 &&  global.Points <= 3 text = "try harder"
+if global.Points >= 4 &&  global.Points <= 5 text = "quite average"
+if global.Points >= 6 &&  global.Points <= 7 text = "not bad!"
+if global.Points >= 8 &&  global.Points <= 9 text = "wowzies!!! epic gamer!!"
+if global.Points >= 10 text = "THE ULTIMATE QUIZ GOD INCARNATE"

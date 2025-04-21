@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndWinner",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":241.97514,
+  "name":"sndWinner",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndWinner.mp3",
+  "type":0,
+  "volume":0.51,
+}

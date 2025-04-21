@@ -1,0 +1,3 @@
+text = "13. what happens when you cook with neutron flux?"
+Answers = [["you will start glowing, illuminating the entire map and an ability to shoot neutron projectiles while metabolising", false], ["get crushed with a power of thousand suns, if you survive you gain 1 av", false], ["a chance to either explode or gain 1 av", true], ["a chance to fire a laser that deals 10d100 damage or explode", false]]
+hell = true

@@ -1,0 +1,6 @@
+if global.VRTVPoints <= 1 text = "you zuck...."
+if global.VRTVPoints >= 2 &&  global.VRTVPoints <= 3 text = "try harder"
+if global.VRTVPoints >= 4 &&  global.VRTVPoints <= 5 text = "quite average"
+if global.VRTVPoints >= 6 &&  global.VRTVPoints <= 7 text = "not bad!"
+if global.VRTVPoints >= 8 &&  global.VRTVPoints <= 9 text = "wowzies!!! epic gamer!!"
+if global.VRTVPoints >= 10 text = "THE ULTIMATE QUIZ GOD INCARNATE"

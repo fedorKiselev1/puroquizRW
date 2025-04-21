@@ -1,0 +1,6 @@
+if global.VRTPoints <= 1 text = "you zuck...."
+if global.VRTPoints >= 2 &&  global.VRTPoints <= 3 text = "try harder"
+if global.VRTPoints >= 4 &&  global.VRTPoints <= 5 text = "quite average"
+if global.VRTPoints >= 6 &&  global.VRTPoints <= 7 text = "not bad!"
+if global.VRTPoints >= 8 &&  global.VRTPoints <= 9 text = "wowzies!!! epic gamer!!"
+if global.VRTPoints >= 10 text = "THE ULTIMATE QUIZ GOD INCARNATE"
