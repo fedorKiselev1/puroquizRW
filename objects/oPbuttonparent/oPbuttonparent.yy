@@ -15,7 +15,10 @@
     "name":"buttons",
     "path":"folders/Objects/buttons.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"oUltimatebuttonparent",
+    "path":"objects/oUltimatebuttonparent/oUltimatebuttonparent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

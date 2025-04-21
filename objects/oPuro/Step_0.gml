@@ -24,13 +24,13 @@ if (Mute != noone) {
 	Muted = Mute.muted 
 }
 
-if (Mute != noone) {
-	if (instance_position(mouse_x, mouse_y, oPbuttonparent)) {
-		Disallow = true
-	} else {
-		Disallow = false
-	}
+
+if (instance_position(mouse_x, mouse_y, oUltimatebuttonparent)) {
+	Disallow = true
+} else {
+	Disallow = false
 }
+
 if bpm != 0 {
 	if Music != noone {
 		if (audio_sound_get_track_position(Music) >= next_beat_time ) {

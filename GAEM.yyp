@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"quiz i think",
+  "%Name":"GAEM",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -51,13 +51,14 @@
   "MetaData":{
     "IDEVersion":"2024.13.1.193",
   },
-  "name":"quiz i think",
+  "name":"GAEM",
   "resources":[
     {"id":{"name":"fDigit","path":"fonts/fDigit/fDigit.yy",},},
     {"id":{"name":"fRain","path":"fonts/fRain/fRain.yy",},},
     {"id":{"name":"fRodonto","path":"fonts/fRodonto/fRodonto.yy",},},
     {"id":{"name":"fRussian","path":"fonts/fRussian/fRussian.yy",},},
     {"id":{"name":"oAskme","path":"objects/oAskme/oAskme.yy",},},
+    {"id":{"name":"oAudiotest","path":"objects/oAudiotest/oAudiotest.yy",},},
     {"id":{"name":"oBomb","path":"objects/oBomb/oBomb.yy",},},
     {"id":{"name":"oBrief","path":"objects/oBrief/oBrief.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
@@ -90,6 +91,8 @@
     {"id":{"name":"oTitle","path":"objects/oTitle/oTitle.yy",},},
     {"id":{"name":"oTreadmill","path":"objects/oTreadmill/oTreadmill.yy",},},
     {"id":{"name":"oTroll","path":"objects/oTroll/oTroll.yy",},},
+    {"id":{"name":"oUltimatebuttonparent","path":"objects/oUltimatebuttonparent/oUltimatebuttonparent.yy",},},
+    {"id":{"name":"oVolumeslider","path":"objects/oVolumeslider/oVolumeslider.yy",},},
     {"id":{"name":"oWarning","path":"objects/oWarning/oWarning.yy",},},
     {"id":{"name":"oWarning2","path":"objects/oWarning2/oWarning2.yy",},},
     {"id":{"name":"oWinner","path":"objects/oWinner/oWinner.yy",},},
@@ -157,6 +160,7 @@
     {"id":{"name":"RWQuestion8","path":"rooms/RWQuestion8/RWQuestion8.yy",},},
     {"id":{"name":"RWQuestion9","path":"rooms/RWQuestion9/RWQuestion9.yy",},},
     {"id":{"name":"RWResult","path":"rooms/RWResult/RWResult.yy",},},
+    {"id":{"name":"VolumeSetting","path":"rooms/VolumeSetting/VolumeSetting.yy",},},
     {"id":{"name":"VRTParent","path":"rooms/VRTParent/VRTParent.yy",},},
     {"id":{"name":"VRTQuestion1","path":"rooms/VRTQuestion1/VRTQuestion1.yy",},},
     {"id":{"name":"VRTQuestion10","path":"rooms/VRTQuestion10/VRTQuestion10.yy",},},
@@ -257,6 +261,8 @@
     {"id":{"name":"sTreadmask","path":"sprites/sTreadmask/sTreadmask.yy",},},
     {"id":{"name":"sTreadmill","path":"sprites/sTreadmill/sTreadmill.yy",},},
     {"id":{"name":"sTroll","path":"sprites/sTroll/sTroll.yy",},},
+    {"id":{"name":"sVolumebar","path":"sprites/sVolumebar/sVolumebar.yy",},},
+    {"id":{"name":"sVolumeslider","path":"sprites/sVolumeslider/sVolumeslider.yy",},},
     {"id":{"name":"sVRTQ2","path":"sprites/sVRTQ2/sVRTQ2.yy",},},
     {"id":{"name":"sVRTQ4","path":"sprites/sVRTQ4/sVRTQ4.yy",},},
     {"id":{"name":"sVRTQ5","path":"sprites/sVRTQ5/sVRTQ5.yy",},},
@@ -277,6 +283,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"VolumeSetting","path":"rooms/VolumeSetting/VolumeSetting.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"RWQuestion1","path":"rooms/RWQuestion1/RWQuestion1.yy",},},
     {"roomId":{"name":"RWQuestion2","path":"rooms/RWQuestion2/RWQuestion2.yy",},},
