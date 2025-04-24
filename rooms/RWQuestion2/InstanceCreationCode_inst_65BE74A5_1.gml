@@ -1,1 +1,1 @@
-text="2. How many subregions does FP(Five Pebbles) have?"
+text="2. How many subregions does Five Pebbles have?"

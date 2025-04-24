@@ -1,1 +1,1 @@
-text="5. Pole plants can kill vultures"
+text="5. Pole plants can kill vultures."

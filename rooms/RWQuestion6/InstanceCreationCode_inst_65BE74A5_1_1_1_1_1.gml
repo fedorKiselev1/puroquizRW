@@ -1,1 +1,1 @@
-text="6. A flashbang can kill a spitter spider"
+text="6. A flashbang can kill a spitter spider."

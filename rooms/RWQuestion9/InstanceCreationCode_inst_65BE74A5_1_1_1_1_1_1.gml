@@ -1,1 +1,1 @@
-text="9. LTTM(Looks To The Moon) warns the slugcat when the rain comes"
+text="9. Looks To The Moon warns the slugcat about incoming rain."

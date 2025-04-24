@@ -1,2 +1,2 @@
-text = "6. Scavengers dislike the iterators"
-Answers = [["true", true], ["false", false]]
+text = "6. Sliverists believed that death was the way to solve the Great Problem."
+Answers = [["true", false], ["false", true]]

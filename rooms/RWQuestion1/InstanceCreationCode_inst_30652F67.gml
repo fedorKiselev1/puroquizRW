@@ -1,1 +1,1 @@
-text="1. What is the starting region of survivor"
+text="1. What is the starting region of survivor?"
